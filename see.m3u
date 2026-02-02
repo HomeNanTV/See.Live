@@ -51,3 +51,9 @@ http://lspapp.store/THMANYH-11/mono.m3u8
 http://lspapp.store/THMANYH-12/mono.m3u8
 #EXTINF:-1,Live 25
 http://lspapp.store/THMANYH-13/mono.m3u8
+#EXTINF:-1,Live 26
+http://lspapp.store/THMANYH-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Live 27
+http://lspapp.store/THMANYH-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Live 28
+http://lspapp.store/THMANYH-3/tracks-v1a1/mono.m3u8
