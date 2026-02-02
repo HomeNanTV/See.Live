@@ -37,3 +37,17 @@ http://lspapp.store/THMANYH-11/video.m3u8
 http://lspapp.store/THMANYH-12/video.m3u8
 #EXTINF:-1,Live 18
 http://lspapp.store/THMANYH-13/video.m3u8
+#EXTINF:-1,Live 19
+http://lspapp.store/BEIN-1/tracks-v1a1/video.m3u8
+#EXTINF:-1,Live 20
+http://lspapp.store/BEIN-2/tracks-v1a1/video.m3u8
+#EXTINF:-1,Live 21
+http://lspapp.store/BEIN-3/tracks-v1a1/video.m3u8
+#EXTINF:-1,Live 22
+http://lspapp.store/BEIN-4/tracks-v1a1/video.m3u8
+#EXTINF:-1,Live 23
+http://lspapp.store/THMANYH-11/mono.m3u8
+#EXTINF:-1,Live 24
+http://lspapp.store/THMANYH-12/mono.m3u8
+#EXTINF:-1,Live 25
+http://lspapp.store/THMANYH-13/mono.m3u8
