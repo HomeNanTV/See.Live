@@ -2,36 +2,6 @@
 #EXTINF:-1,Lملخصات
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1,Live 1
-http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358222?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
-#EXTINF:-1,Live 2
-http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358223?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
-#EXTINF:-1,Live 3
-http://2.57.214.72:2095/Arjc0WCSzNRt_180488/KILxRwQfON9tBs/358224?token=yHXUHH.X.y.X.ydHyzzfzHy.X.y.IQ.ts.21ad7b2f58ad4c016dbbdbbe596adbc69e11cce4b0546199b4bfd6d87b4716b5...sh
-#EXTINF:-1,Live 4
-http://ts16.cdnkhalota.cyou/cache/228300_3222.js
-#EXTINF:-1,Live 5
-http://off16.lynxcontents.click:2086/push/760495572073/4ZWyUoO4zA/228300?expires=1770461017&token=-KsIh7OsqJKHyR_T5z7tq32TB0f_wdwAUCCYdsB_eqnmKl9dw3n2-Zrgdt9TX7qv6ubDRLrjreKSXNwE4GocExrOWmBY3POfs4zWgQmUaUKMt-q95DzKXmy57BC3XSMoaYbOVtllWY2Qgb6Im1u8Y3I8DqfycpQgGJxSm7sj5UIk6q6AYm412y6FgBzO17h6RtReT-j3pQc-T8ouLfi3CqhoZVgElkZZrfwsMXqEoZJ5hZg4oZCOu9GgYI_6r6i5
-#EXTINF:-1,Live 6
-http://lspapp.store/BEIN-1/tracks-v1a1/video.m3u8
-#EXTINF:-1,Live 7
-http://lspapp.store/BEIN-2/tracks-v1a1/video.m3u8
-#EXTINF:-1,Live 8
-http://lspapp.store/BEIN-3/tracks-v1a1/video.m3u8
-#EXTINF:-1,Live 9
-http://lspapp.store/BEIN-4/tracks-v1a1/video.m3u8
-#EXTINF:-1,Live 10
-http://lspapp.store/THMANYH-11/mono.m3u8
-#EXTINF:-1,Live 11
-http://lspapp.store/THMANYH-12/mono.m3u8
-#EXTINF:-1,Live 12
-http://lspapp.store/THMANYH-13/mono.m3u8
-#EXTINF:-1,Live 13
-http://lspapp.store/THMANYH-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Live 14
-http://lspapp.store/THMANYH-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Live 15
-http://lspapp.store/THMANYH-3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Live 16
-http://ibo.lynxiptv.com/live/334188914694/VzDd0nBIgq/196189.ts
-#EXTINF:-1,Live 17
-http://ts22.guedila23annaba.homes/cache/196189_5380.js
+
+#EXTINF:-1 tvg-logo="https://rotana.net"group-title="Rotana",Rotana Khaleejiya
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
